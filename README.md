@@ -24,14 +24,16 @@
 
 
 ## 📸 Fotos do projeto
-<img src="fotosProjeto\telaLogin.jpg" width="200px"/><img src="fotosProjeto\telaCadastro.jpg" width="197px"/>
-<img src="fotosProjeto\telaPrincipal.jpg" width="199px"/>
-<img src="fotosProjeto\modalCriarTarefa.jpg" width="198px"/>
-<img src="fotosProjeto\telaPrincipal-2.jpg" width="203px"/>
-<img src="fotosProjeto\telaPrioridadeBaixa.jpg" width="199px"/>
-<img src="fotosProjeto\telaPrioridadeMedia.jpg" width="199px"/>
-<img src="fotosProjeto\telaPrioridadeAlta.jpg" width="196px"/>
-<img src="fotosProjeto\modalCriarPrioridade.jpg" width="200px"/>
-<img src="fotosProjeto\modalApagar.jpg" width="198px"/>
-
+<div>
+  <img src="fotosProjeto\telaLogin.jpg" width="200px"/>
+  <img src="fotosProjeto\telaCadastro.jpg" width="197px"/>
+  <img src="fotosProjeto\telaPrincipal.jpg" width="199px"/>
+  <img src="fotosProjeto\modalCriarTarefa.jpg" width="198px"/>
+  <img src="fotosProjeto\telaPrincipal-2.jpg" width="203px"/>
+  <img src="fotosProjeto\telaPrioridadeBaixa.jpg" width="199px"/>
+  <img src="fotosProjeto\telaPrioridadeMedia.jpg" width="199px"/>
+  <img src="fotosProjeto\telaPrioridadeAlta.jpg" width="196px"/>
+  <img src="fotosProjeto\modalCriarPrioridade.jpg" width="200px"/>
+  <img src="fotosProjeto\modalApagar.jpg" width="198px"/>
+</div>
 
