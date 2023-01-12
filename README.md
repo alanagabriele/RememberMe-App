@@ -2,7 +2,7 @@
 <h1 align="center"> 📱 Aplicativo RememberMe</h1>
 
 ## :memo: Descrição
-* Aplicativo mobile de gerenciamento de tarefas, podendo adicionar uma tarefa separando por prioridade (alta, média ou baixa).
+* Aplicativo mobile de gerenciamento de tarefas, podendo adicionar uma tarefa e classificar por prioridade (alta, média ou baixa).
 * Foi utilizado o Mongoose para realizar a conexão com o banco de dados MongoDB e o expo como emulator .
 ## :books: Funcionalidades
 * Cadastrar usuário;
