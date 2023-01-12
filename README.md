@@ -23,8 +23,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ## 📸 Fotos do projeto
-<img src="fotosProjeto\telaLogin.jpg" width="200px"/>
-<img src="fotosProjeto\telaCadastro.jpg" width="197px"/>
+<img src="fotosProjeto\telaLogin.jpg" width="200px"/><img src="fotosProjeto\telaCadastro.jpg" width="197px"/>
 <img src="fotosProjeto\telaPrincipal.jpg" width="199px"/>
 <img src="fotosProjeto\modalCriarTarefa.jpg" width="198px"/>
 <img src="fotosProjeto\telaPrincipal-2.jpg" width="203px"/>
