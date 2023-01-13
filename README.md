@@ -3,7 +3,7 @@
 
 ## :memo: Descrição
 * Aplicativo mobile de gerenciamento de tarefas, podendo adicionar uma tarefa e classificar por prioridade (alta, média ou baixa).
-* Foi utilizado o Mongoose para realizar a conexão com o banco de dados MongoDB e o expo como emulator .
+* Usando o Mongoose para realizar a conexão com o banco de dados MongoDB e o expo como emulator .
 ## :books: Funcionalidades
 * Cadastrar usuário;
 * Realizar login;
